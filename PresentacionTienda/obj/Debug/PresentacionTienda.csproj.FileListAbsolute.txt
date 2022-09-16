@@ -18,3 +18,4 @@ C:\Users\ddr4z\source\repos\PresentacionTienda\PresentacionTienda\obj\Debug\Pres
 C:\Users\ddr4z\source\repos\PresentacionTienda\PresentacionTienda\obj\Debug\PresentacionTienda.exe
 C:\Users\ddr4z\source\repos\PresentacionTienda\PresentacionTienda\obj\Debug\PresentacionTienda.pdb
 C:\Users\ddr4z\source\repos\PresentacionTienda\PresentacionTienda\bin\Debug\MySql.Data.dll
+C:\Users\ddr4z\source\repos\PresentacionTienda\PresentacionTienda\obj\Debug\PresentacionTienda.FmrAñadirProductos.resources

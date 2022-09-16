@@ -76,6 +76,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FmrAñadirProductos.resx">
+      <DependentUpon>FmrAñadirProductos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FmrProductos.resx">
       <DependentUpon>FmrProductos.cs</DependentUpon>
     </EmbeddedResource>
