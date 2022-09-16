@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9C1C6B08-9F9C-4628-8473-C39920A9F3A8}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PresentacionTienda</RootNamespace>
     <AssemblyName>PresentacionTienda</AssemblyName>
@@ -30,9 +30,14 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FmrAñadirProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAñadirProductos.Designer.cs">
+      <DependentUpon>FmrAñadirProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrProductos.Designer.cs">
+      <DependentUpon>FmrProductos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -57,6 +74,11 @@
       <Project>{f804bc08-47ee-4a0e-850c-6ec6ddf827e5}</Project>
       <Name>ManejadorProductos</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FmrProductos.resx">
+      <DependentUpon>FmrProductos.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

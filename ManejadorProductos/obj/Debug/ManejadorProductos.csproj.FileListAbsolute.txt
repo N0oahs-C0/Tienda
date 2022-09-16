@@ -1,0 +1,16 @@
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\ManejadorProductos.dll
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\ManejadorProductos.pdb
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\AccesoDatosProductos.dll
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\Crud.dll
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\EntidadesTienda.dll
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\ConectarBd.dll
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\AccesoDatosProductos.pdb
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\EntidadesTienda.pdb
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\Crud.pdb
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\ConectarBd.pdb
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\obj\Debug\ManejadorProductos.csproj.AssemblyReference.cache
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\obj\Debug\ManejadorProductos.csproj.CoreCompileInputs.cache
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\obj\Debug\ManejadorProductos.csproj.CopyComplete
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\obj\Debug\ManejadorProductos.dll
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\obj\Debug\ManejadorProductos.pdb
+C:\Users\ddr4z\source\repos\PresentacionTienda\ManejadorProductos\bin\Debug\MySql.Data.dll
